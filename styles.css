@@ -99,10 +99,6 @@ a {
     object-fit: contain;
     margin: 0 auto 18px;
     border-radius: 50%;
-    border: 1px solid rgba(157, 255, 63, 0.42);
-    box-shadow:
-        0 0 8px rgba(120, 207, 40, 0.04),
-        0 0 44px rgba(120, 207, 40, 0.18);
 }
 
 .eyebrow {
