@@ -365,3 +365,13 @@ footer {
     scroll-behavior: auto !important;
   }
 }
+}
+
+.hero-logo {
+    width: 180px;
+    height: 180px;
+    object-fit: contain;
+    display: block;
+    margin: 0 auto 20px;
+    border-radius: 50%;
+}
